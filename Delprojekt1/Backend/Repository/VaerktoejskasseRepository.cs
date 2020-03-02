@@ -16,9 +16,9 @@ namespace Backend.Repository
             _db = db;
         }
 
-        public List<Vaerktoejskasse> GetVaerktoejsKasse()
+        public Task<List<Vaerktoejskasse>> GetVaerktoejsKasse()
         {
-            return _db.Vaerktoejskasser.ToList();
+            return _db.Vaerktoejskasser.ToListAsync();
         }
 
         public async Task<Vaerktoejskasse> CreateVaerktoejsKasse(Vaerktoejskasse VaerktoejsKasse)

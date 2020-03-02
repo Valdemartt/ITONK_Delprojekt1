@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 
 namespace Backend.Controllers
 {
-    [Route("/api")]
     [ApiController]
     public class HaandvaerkerController : ControllerBase
     {
@@ -19,8 +18,9 @@ namespace Backend.Controllers
             haandvaerkerRepository = new HaandvaerkerRepository(db);
         }
 
-        [HttpPost("/Haandvaerker")]
-        public async Task<IActionResult> Create(Haandvaerker haandvaerker)
+        [Produces("application/json")]
+        [HttpPost("~/api/Haandvaerker")]
+        public async Task<IActionResult> Create([FromBody] Haandvaerker haandvaerker)
         {
             try
             {
@@ -36,7 +36,9 @@ namespace Backend.Controllers
                 return StatusCode(500);
             }
         }
-        [HttpGet("/Haandvaerker")]
+
+        [Produces("application/json")]
+        [HttpGet("~/api/Haandvaerker")]
         public async Task<IActionResult> Get()
         {
             try
@@ -48,8 +50,10 @@ namespace Backend.Controllers
                 return StatusCode(500);
             }
         }
-        [HttpPut("/Haandvaerker")]
-        public async Task<IActionResult> Update(Haandvaerker haandvaerker)
+
+        [Produces("application/json")]
+        [HttpPut("~/api/Haandvaerker")]
+        public async Task<IActionResult> Update([FromBody] Haandvaerker haandvaerker)
         {
             try
             {
@@ -66,14 +70,15 @@ namespace Backend.Controllers
             }
         }
 
-        [HttpDelete("/Haandvaerker")]
-        public async Task<IActionResult> Delete(Haandvaerker haandvaerker)
+        [Produces("application/json")]
+        [HttpDelete("~/api/Haandvaerker")]
+        public async Task<IActionResult> Delete([FromBody] Haandvaerker haandvaerker)
         {
             try
             {
                 if (await haandvaerkerRepository.DeleteHaandvaerker(haandvaerker))
                     return Ok();
-                return BadRequest("Haandvaerker could not be updated");
+                return BadRequest("Haandvaerker could not be deleted");
             }
             catch(Exception e)
             {

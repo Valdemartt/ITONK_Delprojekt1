@@ -16,9 +16,9 @@ namespace Backend.Repository
             _db = db;
         }
 
-        public List<Vaerktoej> GetVaerktoej()
+        public async Task<List<Vaerktoej>> GetVaerktoej()
         {
-            return _db.Vaerktoej.ToList();
+            return await _db.Vaerktoej.ToListAsync();
         }
 
         public async Task<Vaerktoej> CreateVaerktoej(Vaerktoej vaerktoej)

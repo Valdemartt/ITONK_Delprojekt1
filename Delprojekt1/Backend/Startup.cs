@@ -29,7 +29,6 @@ namespace Backend
         {
             services.AddControllers();
             services.AddDbContext<HaandvaerkerDb>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddAutoMapper(typeof(Startup));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -38,7 +37,8 @@ namespace Backend
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-            }
+            }   
+            UpdateDatabase(app);
 
             app.UseHttpsRedirection();
 
@@ -50,6 +50,18 @@ namespace Backend
             {
                 endpoints.MapControllers();
             });
+        }
+        private static void UpdateDatabase(IApplicationBuilder app)
+        {
+            using (var serviceScope = app.ApplicationServices
+                .GetRequiredService<IServiceScopeFactory>()
+                .CreateScope())
+            {
+                using (var context = serviceScope.ServiceProvider.GetService<HaandvaerkerDb>())
+                {
+                    context.Database.Migrate();
+                }
+            }
         }
     }
 }

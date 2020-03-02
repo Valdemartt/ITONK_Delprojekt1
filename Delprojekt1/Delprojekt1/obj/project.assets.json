@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valde\\source\\repos\\ITONK\\ITONK_Delprojekt1\\Delprojekt1\\Delprojekt1\\Frontend.csproj",
+      "projectUniqueName": "C:\\Users\\valde\\Skole\\6. semester\\ONK\\Delprojekt1\\ITONK_Delprojekt1\\Delprojekt1\\Delprojekt1\\Frontend.csproj",
       "projectName": "Frontend",
-      "projectPath": "C:\\Users\\valde\\source\\repos\\ITONK\\ITONK_Delprojekt1\\Delprojekt1\\Delprojekt1\\Frontend.csproj",
+      "projectPath": "C:\\Users\\valde\\Skole\\6. semester\\ONK\\Delprojekt1\\ITONK_Delprojekt1\\Delprojekt1\\Delprojekt1\\Frontend.csproj",
       "packagesPath": "C:\\Users\\valde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valde\\source\\repos\\ITONK\\ITONK_Delprojekt1\\Delprojekt1\\Delprojekt1\\obj\\",
+      "outputPath": "C:\\Users\\valde\\Skole\\6. semester\\ONK\\Delprojekt1\\ITONK_Delprojekt1\\Delprojekt1\\Delprojekt1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
