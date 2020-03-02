@@ -1,0 +1,33 @@
+﻿.modalForm {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.modalForm-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  width: 60%;;
+  min-width: 400px;
+  max-height: 80%;
+  overflow: auto;
+
+  transform: translate(-50%, -50%);
+  background-color: white;
+
+  box-sizing: border-box;
+  padding: 30px 20px 20px;
+}
+.exitButton{
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 20px;
+}

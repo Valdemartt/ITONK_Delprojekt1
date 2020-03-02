@@ -1,0 +1,36 @@
+﻿{
+  "haandvaerkere": [
+    {
+      "haandvaerkerId": 0,
+      "hvAnsaettelsedato": "2011-01-01T00:00:00",
+      "hvEfternavn": "hansen",
+      "hvFagomraade": "snedker",
+      "hvFornavn": "hans",
+      "vaerktoejskasseIds": null
+    },
+    {
+      "haandvaerkerId": 1,
+      "hvAnsaettelsedato": "0001-01-01T00:00:00",
+      "hvEfternavn": "olsen",
+      "hvFagomraade": "vvs",
+      "hvFornavn": "ole",
+      "vaerktoejskasseId": null
+    },
+    {
+      "haandvaerkerId": 2,
+      "hvAnsaettelsedato": "0001-01-01T00:00:00",
+      "hvEfternavn": "Jensen",
+      "hvFagomraade": "vvs",
+      "hvFornavn": "Geo",
+      "vaerktoejskasseId": null
+    },
+    {
+      "haandvaerkerId": 3,
+      "hvAnsaettelsedato": "0001-01-01T00:00:00",
+      "hvEfternavn": "Tang",
+      "hvFagomraade": "Ingeiør",
+      "hvFornavn": "Valdemar",
+      "vaerktoejskasseId": null
+    }
+  ]
+}
