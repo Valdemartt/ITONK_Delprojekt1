@@ -28,14 +28,8 @@ namespace Backend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddCors(options =>
-            {
-                options.AddPolicy("policy",
-                    builder => { builder.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin(); });
-            });
-            services.AddDbContext<HaandvaerkerDb>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<HaandvaerkerDb>(x => x.UseSqlServer(Configuration.GetConnectionString("DockerConnection")));
         }
-
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -43,12 +37,8 @@ namespace Backend
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-            }
+            }   
             UpdateDatabase(app);
-
-
-
-            app.UseCors("policy");
 
             app.UseHttpsRedirection();
 
