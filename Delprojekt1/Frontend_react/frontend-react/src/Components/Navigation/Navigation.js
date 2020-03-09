@@ -8,7 +8,14 @@ class Navigation extends React.Component {
             <div className={"container mt-2 mb-2"}>
                 <ul className={"nav"}>
                     <li>
-                        <button type={"button"} className={"btn btn-link p-0"} onClick={this.props.handleOnClick}>Håndværker</button>
+                        <button type={"button"} className={"btn btn-link p-0"}
+                                onClick={() => this.props.handleOnClick("haandvaerker")}>Håndværker
+                        </button>
+                    </li>
+                    <li>
+                        <button type={"button"} className={"btn btn-link p-0 pl-3"} onClick={() => this.props.handleOnClick("vaerktoej")}>
+                            Værktøj
+                        </button>
                     </li>
                 </ul>
             </div>
