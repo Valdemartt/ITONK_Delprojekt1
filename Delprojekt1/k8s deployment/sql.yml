@@ -1,0 +1,52 @@
+#mssql base volume claim: mssql-base-volume.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: "delprojekt-grp16"
+  name: delprojekt-sql-grp16
+  labels:
+    app: sql-grp16
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sql-grp16
+  template:
+    metadata:
+      labels:
+        app: sql-grp16
+    spec:
+      terminationGracePeriodSeconds: 10
+      containers:
+      - name: sql-grp16
+        image: mcr.microsoft.com/mssql/server:2019-latest
+        ports:
+        - containerPort: 1401
+        env:
+        - name: MSSQL_PID
+          value: "Developer"
+        - name: ACCEPT_EULA
+          value: "Y"
+        - name: SA_PASSWORD
+          value: "aStrongPassword!" 
+        - name: MSSQL_DATA_DIR
+          value: /var/opt/mssql/mdf
+        - name: MSSQL_LOG_DIR
+          value: /var/opt/mssql/ldf          
+        volumeMounts:
+        - name: mssql-base-volume-grp16
+          mountPath: /var/opt/mssql/data
+        - name: mssql-ldf-volume-grp16
+          mountPath: /var/opt/mssql/ldf
+        - name: mssql-mdf-volume-grp16
+          mountPath: /var/opt/mssql/mdf
+      volumes:
+      - name: mssql-base-volume-grp16
+        persistentVolumeClaim:
+          claimName: mssql-base-volume-grp16
+      - name: mssql-mdf-volume-grp16
+        persistentVolumeClaim:
+          claimName: mssql-mdf-volume-grp16
+      - name: mssql-ldf-volume-grp16
+        persistentVolumeClaim:
+          claimName: mssql-ldf-volume-grp16

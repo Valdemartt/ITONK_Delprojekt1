@@ -1,0 +1,13 @@
+version: "3"
+services: 
+  delprojekt_backend:
+    build: .
+    ports: 
+      - "8000:80"
+    depends_on:
+      - delprojekt_sql_grp16
+  delprojekt_sql_grp16:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment: 
+      SA_PASSWORD: "aStrongPassword!"
+      ACCEPT_EULA: "Y"

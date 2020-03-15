@@ -1,0 +1,38 @@
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  namespace: "delprojekt-grp16"
+  name: mssql-base-volume-grp16
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 8Gi
+---
+#mssql data volume claim: mssql-mdf-volume.yaml
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  namespace: "delprojekt-grp16"
+  name: mssql-mdf-volume-grp16
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 8Gi
+---
+#mssql logs volume claim: mssql-ldf-volume.yaml	  
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  namespace: "delprojekt-grp16"
+  name: mssql-ldf-volume-grp16
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 4Gi
+---
