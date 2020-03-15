@@ -6,6 +6,7 @@ import Navigation from './Components/Navigation/Navigation'
 import HaandvaerkerList from './Components/List/HaandvaerkerList'
 import Modal from "./Components/Modal/Modal"
 import VaerktoejsListe from "./Components/List/VaerktoejListe"
+import Vaerktoejskasse from "./Components/List/Vaerktoejskasse";
 
 let api = "https://localhost:5001/api/";
 
@@ -18,6 +19,7 @@ class App extends Component {
             modalContent: {},
             haandvaerkere: {},
             vaerktoej: {},
+            vaerktoejskasse : {},
             method: 'PUT'
         };
         
@@ -25,6 +27,7 @@ class App extends Component {
     componentDidMount() {
         this.fetchHaandvaerkere();
         this.fetchVaerktoej();
+        this.fetchVaerktoejskasse();
     }
 
     fetchHaandvaerkere = () => {
@@ -34,7 +37,12 @@ class App extends Component {
     };
     fetchVaerktoej = () => {
         fetch(api + "vaerktoej").then(res => res.json()).then(result => {
-            this.setState({vaerktoej:result});
+            this.setState({vaerktoej: result});
+        });
+    };
+    fetchVaerktoejskasse = () => {
+        fetch(api + "Vaerktoejskasse").then(res => res.json()).then(result => {
+            this.setState({vaerktoejskasse: result});
         });
     };
     handleOnClickNav = (state) => {
@@ -51,6 +59,12 @@ class App extends Component {
         this.setState({modalContent:{content}});
         this.setState({method:'Put'});
     };
+    handleOnClickListVaerktoejskasse = (content) => {
+        this.setState({showModal:'vaerktoejskasse'});
+        console.log(content);
+        this.setState({modalContent:{content}});
+        this.setState({method:'Put'});
+    };
     handleOnClickModal = () => {
         console.log('modal exit');
         this.setState({showModal: ''});
@@ -60,12 +74,30 @@ class App extends Component {
         this.setState({showModal: 'haandvaerker'});
         this.setState({method: 'POST'});
     }
+    showCreateModalVaerktoej() {
+        this.setState({showModal: 'vaerktoej'});
+        this.setState({method: 'POST'});
+    }
+    showCreateModalVaerktoejskasse() {
+        this.setState({showModal: 'vaerktoejskasse'});
+        this.setState({method:'POST'});
+    }
 
     render() {
         let DisplayCreateHaanvaerker = "block";
         if(this.state.showList != "haandvaerker")
         {
             DisplayCreateHaanvaerker = "none";
+        }
+        let DisplayCreateVaerktoej = "block";
+        if(this.state.showList != "vaerktoej")
+        {
+            DisplayCreateVaerktoej = "none";
+        }
+        let DisplayCreateVaerktoejskasse = "block";
+        if(this.state.showList != "vaerktoejskasse")
+        {
+            DisplayCreateVaerktoejskasse = "none"
         }
         return (
             <React.Fragment>
@@ -75,10 +107,21 @@ class App extends Component {
                         Create
                     </button>
                 </div>
+                <div className={"container"} style={{display:DisplayCreateVaerktoej}}>
+                    <button onClick={this.showCreateModalVaerktoej.bind(this)} className={"btn btn-primary"}>
+                        Create
+                    </button>
+                </div>
+                <div className={"container"} style={{display:DisplayCreateVaerktoejskasse}}>
+                    <button onClick={this.showCreateModalVaerktoejskasse.bind(this)} className={"btn btn-primary"}>
+                        Create
+                    </button>
+                </div>
                 <HaandvaerkerList fetchList={this.fetchHaandvaerkere} api={api} list={this.state.haandvaerkere} handleOnClick={this.handleOnClickList}
                                   showList={this.state.showList}/>
                  <VaerktoejsListe handleOnClick={this.handleOnClickListVaerktoej} fetchList={this.fetchVaerktoej} api={api} list={this.state.vaerktoej} showList={this.state.showList}/>
-                <Modal api={api} fetchVaerktoej={this.fetchVaerktoej} fetchHaandvaerker={this.fetchHaandvaerkere} method={this.state.method} handleExit={this.handleOnClickModal}
+                <Vaerktoejskasse handleOnClick={this.handleOnClickListVaerktoejskasse} fetchList={this.fetchVaerktoejskasse} api={api} list={this.state.vaerktoejskasse} showList={this.state.showList} />
+                 <Modal haandvaerker={this.state.haandvaerkere} vaerktoejskasse={this.state.vaerktoejskasse} api={api} fetchVaerktoej={this.fetchVaerktoej} fetchHaandvaerker={this.fetchHaandvaerkere} fetchVaerktoejskasse={this.fetchVaerktoejskasse} method={this.state.method} handleExit={this.handleOnClickModal}
                        modalContent={this.state.modalContent} showModal={this.state.showModal}/>
             </React.Fragment>
         );

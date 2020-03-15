@@ -4,10 +4,23 @@ import dateformat from "dateformat";
 class vaerktoejListe extends React.Component {
     constructor(props) {
         super(props);
+        this.state = {list: this.props.list}
     }
 
     deleteItem(Item) {
-
+        console.log("deleting item with id: " + Item);
+        fetch(this.props.api + "Vaerktoej",
+            {
+                method: "DELETE",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({vtId: Item})
+            }).then(response => {
+            console.log(response);
+        }).then(() => {
+            this.props.fetchList();
+        });
     }
 
     setItems = () => {
@@ -18,13 +31,14 @@ class vaerktoejListe extends React.Component {
             });
             console.log(arr);
             (this.items = arr.map((item) =>
-                
+
                 <tr>
                     <td>{item.vtId}</td>
                     <td>{item.vtModel}</td>
                     <td>{item.vtFabrikat}</td>
                     <td>{item.vtType}</td>
                     <td>{item.vtSerienr}</td>
+                    <td>{item.liggerIvtk}</td>
                     <td>{dateformat(item.vtAnskaffet, "yyyy-mm-dd")}</td>
                     <td>
                         <button type={"button"} className={"btn btn-link p-0"}
@@ -33,7 +47,7 @@ class vaerktoejListe extends React.Component {
                     </td>
                     <td>
                         <button type={"button"} onClick={(e) => {
-                            if (window.confirm('Are you sure you wish to delete this item?')) this.deleteItem(item.haandvaerkerId)
+                            if (window.confirm('Are you sure you wish to delete this item?')) this.deleteItem(item.vtId)
                         }} className={"btn btn-link p-0"}>
                             Slet
                         </button>
@@ -64,6 +78,9 @@ class vaerktoejListe extends React.Component {
                             </th>
                             <th>
                                 Serienummer:
+                            </th>
+                            <th>
+                                Ligger i:
                             </th>
                             <th>
                                 Anskaffet:

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Backend.Database;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
@@ -28,6 +29,15 @@ namespace Backend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddCors(c =>  
+            {  
+                c.AddPolicy("AllowOrigin", options =>
+                {
+                    options.AllowAnyOrigin();
+                    options.AllowAnyHeader();
+                    options.AllowAnyMethod();
+                });  
+            }); 
             services.AddDbContext<HaandvaerkerDb>(x => x.UseSqlServer(Configuration.GetConnectionString("DockerConnection")));
         }
 
@@ -39,6 +49,8 @@ namespace Backend
                 app.UseDeveloperExceptionPage();
             }   
             UpdateDatabase(app);
+
+            app.UseCors("AllowOrigin");
 
             app.UseHttpsRedirection();
 
