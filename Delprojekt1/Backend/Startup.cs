@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Backend.Database;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
@@ -28,7 +29,20 @@ namespace Backend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+<<<<<<< HEAD
             services.AddDbContext<HaandvaerkerDb>(x => x.UseSqlServer(Configuration.GetConnectionString("KubernetesForeignConnection")));
+=======
+            services.AddCors(c =>  
+            {  
+                c.AddPolicy("AllowOrigin", options =>
+                {
+                    options.AllowAnyOrigin();
+                    options.AllowAnyHeader();
+                    options.AllowAnyMethod();
+                });  
+            }); 
+            services.AddDbContext<HaandvaerkerDb>(x => x.UseSqlServer(Configuration.GetConnectionString("DockerConnection")));
+>>>>>>> 617326d05b716fe801eeecba6560e995288e4d6d
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,6 +53,8 @@ namespace Backend
                 app.UseDeveloperExceptionPage();
             }   
             UpdateDatabase(app);
+
+            app.UseCors("AllowOrigin");
 
             app.UseHttpsRedirection();
 

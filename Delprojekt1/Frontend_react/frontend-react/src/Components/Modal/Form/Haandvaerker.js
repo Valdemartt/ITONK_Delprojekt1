@@ -1,6 +1,6 @@
 ﻿﻿import React from "react";
 import dateformat from "dateformat";
-
+import Input from "../../FormComponents/Input"
 
 class Haandvaerker extends React.Component {
     constructor(props) {
@@ -43,7 +43,7 @@ class Haandvaerker extends React.Component {
         let data = document.querySelectorAll('#form input').forEach(function (dataItem) {
             let key = dataItem.getAttribute('name');
  
-            let value = dataItem.getAttribute('value');
+            let value = dataItem.value;
             if(key === "haandvaerkerId")
             {
                 value = parseInt(value);
@@ -80,26 +80,14 @@ class Haandvaerker extends React.Component {
                 <div>
                     <input type={'hidden'} name={'haandvaerkerId'} value={this.state.id}/>
                 </div>
-                <div className={"form-group"}>
-                    <label>Fornavn:</label>
-                    <input className={"form-control"} type={'text'} onChange={this.handleChangeFornavn.bind(this)} name={'hvFornavn'}
+                    <Input label={"Fornavn"} className={"form-control"} type={'text'} onChange={this.handleChangeFornavn} name={'hvFornavn'}
                            defaultValue={this.state.fornavn}/>
-                </div>
-                <div className={"form-group"}>
-                    <label>Efternavn:</label>
-                    <input className={"form-control"} type={'text'} onChange={this.handleChangeEfternavn.bind(this)} name={'hvEfternavn'}
+                    <Input label={"Efternavn"} className={"form-control"} type={'text'} onChange={this.handleChangeEfternavn} name={'hvEfternavn'}
                            defaultValue={this.state.efternavn}/>
-                </div>
-                <div className={"form-group"}>
-                    <label>Fagområde:</label>
-                    <input className={"form-control"} type={'text'} onChange={this.handleChangeFagomraade.bind(this)} name={'hvFagomraade'}
+                    <Input label={"Fagområde"} className={"form-control"} type={'text'} onChange={this.handleChangeFagomraade} name={'hvFagomraade'}
                            defaultValue={this.state.fagomraade}/>
-                </div>
-                <div className={"form-group"}>
-                    <label>Ansættelsesdato</label>
-                    <input className={"form-control"} type={'date'} onChange={this.handleChangeAnsaettelse.bind(this)} name={'hvAnsaettelsedato'}
+                    <Input label={"ansættelsesdato"} className={"form-control"} type={'date'} onChange={this.handleChangeAnsaettelse} name={'hvAnsaettelsedato'}
                            defaultValue={dateformat(this.state.ansaettelsesdato, "yyyy-mm-dd")}/>
-                </div>
                 <div className={"form-group"}>
                     <button onClick={this.submitForm} className={"btn btn-primary"}>
                         {this.props.submitType == null ? 'submit' : this.props.submitType}

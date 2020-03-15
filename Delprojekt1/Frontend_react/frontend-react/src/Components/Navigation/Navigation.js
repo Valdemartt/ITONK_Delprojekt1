@@ -17,6 +17,11 @@ class Navigation extends React.Component {
                             Værktøj
                         </button>
                     </li>
+                    <li>
+                        <button type={"button"} className={"btn btn-link p-0 pl-3"} onClick={() => this.props.handleOnClick("vaerktoejskasse")}>
+                            Værktøjskasse
+                        </button>
+                    </li>
                 </ul>
             </div>
         );
