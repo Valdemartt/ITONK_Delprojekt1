@@ -8,7 +8,7 @@ import Modal from "./Components/Modal/Modal"
 import VaerktoejsListe from "./Components/List/VaerktoejListe"
 import Vaerktoejskasse from "./Components/List/Vaerktoejskasse";
 
-let api = "https://localhost:5001/api/";
+let api = "http://127.0.0.1:8000/api/";
 
 class App extends Component {
     constructor(props) {

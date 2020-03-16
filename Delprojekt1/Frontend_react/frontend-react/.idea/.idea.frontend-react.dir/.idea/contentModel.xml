@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\tmo.DIS\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\tmo.DIS\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
-    <e p="C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Frontend_react\frontend-react" t="IncludeFlat">
+    <e p="C:\Users\Tobi\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Tobi\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="D:\Repos\ITONK_Delprojekt1\Delprojekt1\Frontend_react\frontend-react" t="IncludeFlat">
       <e p="node_modules\@babel\parser" t="IncludeRecursive" />
       <e p="node_modules\@babel\types" t="IncludeRecursive" />
       <e p="node_modules\@jest\console" t="IncludeRecursive" />
