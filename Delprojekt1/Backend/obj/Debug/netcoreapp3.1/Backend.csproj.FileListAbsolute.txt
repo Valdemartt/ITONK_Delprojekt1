@@ -356,26 +356,7 @@ C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\B
 C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 <<<<<<< HEAD
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\web.config
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.Development.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.deps.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.runtimeconfig.json
 =======
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\web.config
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.runtimeconfig.dev.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\appsettings.Development.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\appsettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\Backend.deps.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\Backend.runtimeconfig.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Properties\launchSettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\web.config
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\Backend.runtimeconfig.dev.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\appsettings.Development.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\appsettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Backend.deps.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Backend.runtimeconfig.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\Properties\launchSettings.json
 C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\web.config
 C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\web.config
@@ -538,3 +519,8 @@ C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delpr
 C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\Backend.runtimeconfig.json
 C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Properties\launchSettings.json
 >>>>>>> 617326d05b716fe801eeecba6560e995288e4d6d
+C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\web.config
+C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.Development.json
+C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.json
+C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.deps.json
+C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.runtimeconfig.json

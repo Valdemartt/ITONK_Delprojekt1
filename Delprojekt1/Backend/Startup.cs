@@ -29,9 +29,8 @@ namespace Backend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-<<<<<<< HEAD
-            services.AddDbContext<HaandvaerkerDb>(x => x.UseSqlServer(Configuration.GetConnectionString("KubernetesForeignConnection")));
-=======
+            services.AddDbContext<HaandvaerkerDb>(x => x.UseSqlServer(Configuration.GetConnectionString("KubernetesConnection")));
+
             services.AddCors(c =>  
             {  
                 c.AddPolicy("AllowOrigin", options =>
@@ -41,8 +40,6 @@ namespace Backend
                     options.AllowAnyMethod();
                 });  
             }); 
-            services.AddDbContext<HaandvaerkerDb>(x => x.UseSqlServer(Configuration.GetConnectionString("DockerConnection")));
->>>>>>> 617326d05b716fe801eeecba6560e995288e4d6d
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
