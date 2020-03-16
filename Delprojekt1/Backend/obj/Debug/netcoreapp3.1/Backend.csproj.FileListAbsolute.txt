@@ -1,540 +1,135 @@
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.exe
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\valde\source\repos\ITONK\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.exe
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\appsettings.Development.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Backend.exe
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\appsettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Properties\launchSettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Backend.deps.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Backend.runtimeconfig.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Backend.runtimeconfig.dev.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Backend.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Backend.pdb
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Bcl.HashCode.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.CodeAnalysis.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Data.SqlClient.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.EntityFrameworkCore.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.Configuration.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.Logging.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.Options.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Extensions.Primitives.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.Identity.Client.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\dotnet-aspnet-codegenerator-design.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\Newtonsoft.Json.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\NuGet.Frameworks.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\System.Composition.AttributedModel.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\System.Composition.Convention.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\System.Composition.Hosting.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\System.Composition.Runtime.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\System.Composition.TypedParts.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\System.Configuration.ConfigurationManager.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\System.Runtime.Caching.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\System.Security.Cryptography.ProtectedData.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\win-arm64\native\sni.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\win-x64\native\sni.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\win-x86\native\sni.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\dist\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-<<<<<<< HEAD
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\web.config
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.Development.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.deps.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.runtimeconfig.json
-=======
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\web.config
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.runtimeconfig.dev.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\appsettings.Development.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\appsettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\Backend.deps.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\Backend.runtimeconfig.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Properties\launchSettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\web.config
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\Backend.runtimeconfig.dev.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\appsettings.Development.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\appsettings.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Backend.deps.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Backend.runtimeconfig.json
-C:\Users\valde\Skole\6. semester\ONK\Delprojekt1\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\Properties\launchSettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\web.config
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\web.config
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\web.config
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\web.config
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\web.config
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.Development.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.deps.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.runtimeconfig.dev.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.runtimeconfig.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\appsettings.Development.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\appsettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\Backend.deps.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\Backend.runtimeconfig.dev.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\Backend.runtimeconfig.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\appsettings.Development.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\appsettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\Backend.deps.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\Backend.runtimeconfig.dev.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\Backend.runtimeconfig.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\appsettings.Development.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\appsettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Backend.deps.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Backend.runtimeconfig.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\appsettings.Development.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\appsettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\Backend.deps.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\Backend.runtimeconfig.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\Properties\launchSettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\Properties\launchSettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Properties\launchSettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.exe
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.dll
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\web.config
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Backend.runtimeconfig.dev.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\appsettings.Development.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\appsettings.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\Backend.deps.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\Backend.runtimeconfig.json
-C:\Users\tmo.DIS\OneDrive - Aarhus Universitet\6. semester\Onk\Repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Properties\launchSettings.json
->>>>>>> 617326d05b716fe801eeecba6560e995288e4d6d
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\web.config
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\web.config
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.Development.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\appsettings.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.deps.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\Backend.runtimeconfig.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Backend.runtimeconfig.dev.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\appsettings.Development.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\appsettings.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\Backend.deps.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\dist\dist\Backend.runtimeconfig.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dist\dist\dist\dist\Properties\launchSettings.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.exe
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.dll
+D:\repos\ITONK_Delprojekt1\Delprojekt1\Backend\obj\Debug\netcoreapp3.1\Backend.pdb

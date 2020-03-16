@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valde\\Skole\\6. semester\\ONK\\Delprojekt1\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\Backend.csproj": {}
+    "D:\\repos\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valde\\Skole\\6. semester\\ONK\\Delprojekt1\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\Backend.csproj": {
+    "D:\\repos\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valde\\Skole\\6. semester\\ONK\\Delprojekt1\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\Backend.csproj",
+        "projectUniqueName": "D:\\repos\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\valde\\Skole\\6. semester\\ONK\\Delprojekt1\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\Backend.csproj",
-        "packagesPath": "C:\\Users\\valde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valde\\Skole\\6. semester\\ONK\\Delprojekt1\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\obj\\",
+        "projectPath": "D:\\repos\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\Tobi\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\ITONK_Delprojekt1\\Delprojekt1\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\valde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
