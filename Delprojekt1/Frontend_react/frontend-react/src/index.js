@@ -8,7 +8,7 @@ import Modal from "./Components/Modal/Modal"
 import VaerktoejsListe from "./Components/List/VaerktoejListe"
 import Vaerktoejskasse from "./Components/List/Vaerktoejskasse";
 
-let api = "http://delprojekt-backend-grp16.itonk-ap1-gr16:80/api/";
+let api = "http://34.76.28.213:80/api/";
 
 class App extends Component {
     constructor(props) {
