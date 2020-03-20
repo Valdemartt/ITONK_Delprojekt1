@@ -39,9 +39,6 @@ class haandvaerkerList extends React.Component {
                     <td>{item.hvFornavn}</td>
                     <td>{dateformat(item.hvAnsaettelsedato, "yyyy-mm-dd")}</td>
                     <td>
-                        <button type={"button"} className={"btn btn-link p-0"}>Rediger Værktøjskasse</button>
-                    </td>
-                    <td>
                         <button type={"button"} className={"btn btn-link p-0"}
                                 onClick={() => this.props.handleOnClick(item)}>Rediger
                         </button>
@@ -77,9 +74,6 @@ class haandvaerkerList extends React.Component {
                             </th>
                             <th>
                                 Ansættelses dato:
-                            </th>
-                            <th>
-                                Værktøjskasse:
                             </th>
                             <th>
 

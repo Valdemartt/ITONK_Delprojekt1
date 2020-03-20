@@ -26,34 +26,39 @@ class Select extends React.Component {
 
 
     mapSelectItems() {
-        var mapItems = [];
-        console.log("selectItem:");
-        console.log(this.props.selectItem);
-        if (this.props.selectItem != null && this.props.type !== "vaerktojskasse") {
-            console.log("foreach:");
-            if (this.props.selectItem.length > 1) {
+        if (this.props.selectItem.length > 1) {
+            var mapItems = [];
+            console.log("selectItem:");
+            console.log(this.props.selectItem);
+            if (this.props.selectItem != null && this.props.type !== "vaerktojskasse") {
+                console.log("foreach:");
+
                 this.props.selectItem.forEach((item) => {
                     console.log(item);
                     mapItems.push(item);
                 });
-            }
-            this.items = mapItems.map((item) =>
-                <option value={item.haandvaerkerId}>
-                    {item.hvFornavn + " " + item.hvEfternavn}
-                </option>
-            );
-        } else if (this.props.selectItem != null) {
-            console.log("foreach:");
-            this.props.selectItem.forEach((item) => {
-                console.log(item);
-                mapItems.push(item);
-            });
 
-            this.items = mapItems.map((item) =>
-                <option value={item.vtkId}>
-                    {item.vtkId}
-                </option>
-            );
+                this.items = mapItems.map((item) =>
+                    <option value={item.haandvaerkerId}>
+                        {item.hvFornavn + " " + item.hvEfternavn}
+                    </option>
+                );
+            } else if (this.props.selectItem != null) {
+                console.log("foreach:");
+                this.props.selectItem.forEach((item) => {
+                    console.log(item);
+                    mapItems.push(item);
+                });
+
+                this.items = mapItems.map((item) =>
+                    <option value={item.vtkId}>
+                        {item.vtkId}
+                    </option>
+                );
+            }
+        }
+        else{
+            this.items = [];
         }
     }
 
