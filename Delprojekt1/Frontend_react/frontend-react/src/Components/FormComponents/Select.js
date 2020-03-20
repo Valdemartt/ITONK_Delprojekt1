@@ -18,8 +18,9 @@ class Select extends React.Component {
                 inputVal: this.props.defaultValue
             };
         }
-        
+
     }
+
     componentDidMount() {
     }
 
@@ -28,21 +29,20 @@ class Select extends React.Component {
         var mapItems = [];
         console.log("selectItem:");
         console.log(this.props.selectItem);
-        if(this.props.selectItem != null && this.props.type !== "vaerktojskasse")
-        {
+        if (this.props.selectItem != null && this.props.type !== "vaerktojskasse") {
             console.log("foreach:");
-            this.props.selectItem.forEach((item) => {
-                console.log(item);
-                mapItems.push(item);
-            });
-            
+            if (this.props.selectItem.length > 1) {
+                this.props.selectItem.forEach((item) => {
+                    console.log(item);
+                    mapItems.push(item);
+                });
+            }
             this.items = mapItems.map((item) =>
-              <option value={item.haandvaerkerId}>
-                  {item.hvFornavn + " " + item.hvEfternavn}
-              </option>   
+                <option value={item.haandvaerkerId}>
+                    {item.hvFornavn + " " + item.hvEfternavn}
+                </option>
             );
-        }
-        else if(this.props.selectItem != null){
+        } else if (this.props.selectItem != null) {
             console.log("foreach:");
             this.props.selectItem.forEach((item) => {
                 console.log(item);
@@ -56,7 +56,7 @@ class Select extends React.Component {
             );
         }
     }
-    
+
     handleChange(event) {
         this.setState({inputVal: event.target.value});
     }
@@ -66,7 +66,8 @@ class Select extends React.Component {
         return (
             <div className={"form-group"}>
                 <label>{this.props.label}</label>
-                <select className={this.props.className} onChange={e => this.handleChange(e)} name={this.props.name} value={this.state.inputVal}>
+                <select className={this.props.className} onChange={e => this.handleChange(e)} name={this.props.name}
+                        value={this.state.inputVal}>
                     {this.items}
                 </select>
             </div>
