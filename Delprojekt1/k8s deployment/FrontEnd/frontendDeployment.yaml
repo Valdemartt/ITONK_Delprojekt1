@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata: 
+  name: delprojekt-frontend-grp16
+  namespace: itonk-ap1-gr16
+spec: 
+  replicas: 1
+  selector: 
+    matchLabels:
+      app: delprojekt-frontend-grp16
+  template: 
+    metadata: 
+      labels:
+        app: delprojekt-frontend-grp16
+      namespace: itonk-ap1-gr16
+    spec:
+      containers:
+        - name: delprojekt-frontend-grp16
+          image: docker.io/krebil/delprojekt-frontend-grp16:latest
+          ports:
+            - containerPort: 80

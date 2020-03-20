@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata: 
+  name: delprojekt-frontend-grp16
+  namespace: itonk-ap1-gr16
+spec:
+  type: LoadBalancer
+  ports: 
+    - port: 80
+  selector: 
+    app: delprojekt-frontend-grp16
